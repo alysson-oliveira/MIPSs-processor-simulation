@@ -1,1 +1,1 @@
-# Trababalho-2-de-Org-Comp
+Simulação do processador MIPS em C
